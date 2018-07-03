@@ -1,4 +1,3 @@
-#imdb_fasttext
 This example demonstrates the use of fasttext for text classification Based on Joulin et al's paper.
 Bags of Tricks for Efficient Text Classification.
 Results on the IMDB datasets. 
